@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
 <p align="center">
-🤖 ML &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🐍 Python Developer &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📈 Power BI &nbsp;|&nbsp; 🚀 Aspiring Data Scientist
+🐍 Python &nbsp;|&nbsp; 🎯 Django &amp; DRF &nbsp;|&nbsp; ⚛️ React.js &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🤖 ML &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📈 Power BI &nbsp;|&nbsp; 🚀 Aspiring Data Scientist
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=sawerasaeed00-lab&color=A78BFA&style=flat-square&label=Profile+Views" />
@@ -86,8 +86,8 @@ AI quiz generation, plagiarism detection (TF-IDF cosine similarity), peer review
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sawerasaeed00-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E7EB" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sawerasaeed00-lab&hide_border=true&background=0D1117&stroke=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sawerasaeed00-lab&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=C4B5FD" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=sawerasaeed00-lab&theme=dark&hide_border=true&background=1A1B27&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" width="48%" />
 
 <br>
 

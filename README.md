@@ -14,7 +14,11 @@
 
 <br>
 
-### About Me
+### 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 - 🎓 BS Information Technology graduate — The Islamia University of Bahawalpur (CGPA 3.71/4.00)
 - 💻 Full-stack developer: Python, Django, Django REST Framework, React.js, PostgreSQL
@@ -23,11 +27,20 @@
 - 📊 Exploring Data Analytics & BI — SQL, Power BI, aspiring Data Scientist
 - 🔭 Currently job hunting for internships & entry-level roles — open to relocation
 
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 <br>
 
 <div align="center">
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,django,react,postgres,git,github&theme=dark" />
 
@@ -82,13 +95,19 @@ AI quiz generation, plagiarism detection (TF-IDF cosine similarity), peer review
 
 <img src="https://github-profile-trophy.vercel.app/?username=sawerasaeed00-lab&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" />
 
+<br>
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sawerasaeed00-lab&theme=react-dark&hide_border=true&color=A78BFA&line=A78BFA&point=C4B5FD&area=true" width="100%" />
+
 </div>
 
 <br>
 
 <div align="center">
 
-### Connect With Me
+### 📬 Connect With Me
 
 <a href="https://linkedin.com/in/sawera-saeed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

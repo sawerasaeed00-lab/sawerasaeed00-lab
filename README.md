@@ -1,9 +1,14 @@
-## Hi there 👋
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sawera+%F0%9F%91%8B;Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:C4B5FD&height=200&section=header&text=Hi,%20I'm%20Sawera%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=sawerasaeed00-lab&color=A78BFA&style=flat-square&label=Profile+Views" />
 
 </div>
+
+<br>
 
 ### About Me
 
@@ -15,34 +20,70 @@
 
 <br>
 
+<div align="center">
+
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,react,postgres,git,github" />
-
-<br>
-
-### Featured Projects
-
-**[RishtaConnect](https://github.com/sawerasaeed00-lab/rishtaconnect)** — Bilingual AI matrimonial platform
-Django · PostgreSQL · OpenAI GPT-4o-mini · custom 7-dimension weighted matching algorithm, bilingual chatbot, AI-assisted bio & photo moderation.
-
-**[SmartClass](https://github.com/sawerasaeed00-lab/smartclass)** — AI-based Learning Management & Assessment System
-Django · React · PostgreSQL · ML/NLP — AI quiz generation, plagiarism detection (TF-IDF cosine similarity), peer review, adaptive difficulty calibration. Final year project, exhibited at ORIC FYP Exhibition 2026.
-
-<br>
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sawerasaeed00-lab&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sawerasaeed00-lab&theme=tokyonight&hide_border=true" width="48%" />
-
-<br>
-
-### Connect
-
-<a href="https://linkedin.com/in/sawera-saeed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=python,django,react,postgres,git,github&theme=dark" />
 
 </div>
-<!--
-**sawerasaeed00-lab/sawerasaeed00-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<br>
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[RishtaConnect](https://github.com/sawerasaeed00-lab/rishtaconnect)**
+Bilingual AI matrimonial platform
+
+`Django` `PostgreSQL` `OpenAI GPT-4o-mini`
+
+Custom 7-dimension weighted matching algorithm, bilingual chatbot, AI-assisted bio & photo moderation.
+
+</td>
+<td width="50%">
+
+**[SmartClass](https://github.com/sawerasaeed00-lab/smartclass)**
+AI-based Learning Management System
+
+`Django` `React` `PostgreSQL` `ML/NLP`
+
+AI quiz generation, plagiarism detection (TF-IDF cosine similarity), peer review, adaptive difficulty. Exhibited at ORIC FYP Exhibition 2026.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sawerasaeed00-lab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=E5E7EB" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sawerasaeed00-lab&hide_border=true&background=0D1117&stroke=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" width="48%" />
+
+<br>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sawerasaeed00-lab&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Connect With Me
+
+<a href="https://linkedin.com/in/sawera-saeed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:7C3AED&height=100&section=footer" width="100%" />
+
+</div>

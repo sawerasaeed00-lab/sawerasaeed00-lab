@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
+<p align="center">
+🤖 ML &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🐍 Python Developer &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📈 Power BI &nbsp;|&nbsp; 🚀 Aspiring Data Scientist
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=sawerasaeed00-lab&color=A78BFA&style=flat-square&label=Profile+Views" />
 
 </div>
@@ -16,6 +20,7 @@
 - 💻 Full-stack developer: Python, Django, Django REST Framework, React.js, PostgreSQL
 - 🤖 Building AI-integrated apps using the OpenAI API
 - 🧠 Google AI Essentials Certified
+- 📊 Exploring Data Analytics & BI — SQL, Power BI, aspiring Data Scientist
 - 🔭 Currently job hunting for internships & entry-level roles — open to relocation
 
 <br>
@@ -25,6 +30,11 @@
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,django,react,postgres,git,github&theme=dark" />
+
+<br><br>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 

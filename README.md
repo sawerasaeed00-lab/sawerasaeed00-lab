@@ -4,9 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
-<p align="center">
-🐍 Python &nbsp;|&nbsp; 🎯 Django &amp; DRF &nbsp;|&nbsp; ⚛️ React.js &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🤖 ML &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📈 Power BI &nbsp;|&nbsp; 🚀 Aspiring Data Scientist
-</p>
+<i>Full-stack developer specializing in Python, Django &amp; React — building AI-integrated web applications end to end.</i>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-7C3AED?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logoColor=white)
+![AI](https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-7C3AED?style=for-the-badge&logoColor=white)
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=sawerasaeed00-lab&color=A78BFA&style=flat-square&label=Profile+Views" />
 
@@ -20,12 +32,12 @@
 <tr>
 <td width="60%">
 
-- 🎓 BS Information Technology graduate — The Islamia University of Bahawalpur (CGPA 3.71/4.00)
-- 💻 Full-stack developer: Python, Django, Django REST Framework, React.js, PostgreSQL
-- 🤖 Building AI-integrated apps using the OpenAI API
+- 🎓 BS Information Technology — The Islamia University of Bahawalpur (CGPA 3.71/4.00)
+- 💻 Full-stack development with Python, Django, Django REST Framework, React.js & PostgreSQL
+- 🤖 Integrating AI into production apps using the OpenAI API
+- 📊 Growing focus on data analytics — SQL-driven insights
 - 🧠 Google AI Essentials Certified
-- 📊 Exploring Data Analytics & BI — SQL, Power BI, aspiring Data Scientist
-- 🔭 Currently job hunting for internships & entry-level roles — open to relocation
+- 🔭 Open to internships & entry-level roles — open to relocation
 
 </td>
 <td width="40%">
@@ -40,14 +52,9 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🧰 Skills
 
 <img src="https://skillicons.dev/icons?i=python,django,react,postgres,git,github&theme=dark" />
-
-<br><br>
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 

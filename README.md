@@ -3,11 +3,25 @@
 </h1>
 
 <p align="center">
-  🐍 Python &nbsp;|&nbsp; 🎯 Django &amp; DRF &nbsp;|&nbsp; ⚛️ React.js &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🤖 ML &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 📊 Data Analyst
+  🐍 Python &nbsp;|&nbsp; 🎯 Django &amp; DRF &nbsp;|&nbsp; ⚛️ React.js &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🤖 ML &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📈 Power BI
 </p>
 
 <p align="center">
   <i>Full-stack developer specializing in Python, Django &amp; React — building AI-integrated web applications end to end.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-7C3AED?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analyst-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
 <p align="center">
@@ -20,11 +34,7 @@
   <img src="https://komarev.com/ghpvc/?username=sawerasaeed00-lab&color=A78BFA&style=flat-square&label=Profile+Views" />
 </p>
 
-<br>
-
-<table>
-<tr>
-<td width="60%">
+---
 
 ### 👩‍💻 About Me
 
@@ -36,34 +46,20 @@
 - 🧠 Google AI Essentials Certified
 - 🔭 Open to internships & entry-level roles — open to relocation
 
-</td>
-<td width="40%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sawerasaeed00-lab&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" />
+### 💼 Experience
 
-</td>
-</tr>
-</table>
+**Full Stack Intern — Aiztek Technologies** `Ongoing`
+Contributing to full-stack web development, working across both frontend and backend of live projects.
 
-<br>
+**AI Engineer Intern — DecodeLabs AI Engineering Industrial Training (Batch 2026)** `Ongoing`
+Enrolled in DecodeLabs' project-based AI Industrial Training Kit, structured so completing each week's project unlocks the next. Projects completed so far:
+- Built a rule-based AI chatbot
+- Built an ML-based data classification system using KNN on the Iris dataset, evaluated with a confusion matrix and F1 score
+- Built a content-based **Tech Stack Recommender** using TF-IDF and cosine similarity *(see Featured Projects below)*
 
-<div align="center">
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,django,react,nodejs,express,postgres,git,github&theme=dark" />
-
-<br><br>
-
-![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
-<br>
+---
 
 ### 🚀 Featured Projects
 
@@ -74,7 +70,7 @@
 **🤍 [RishtaConnect](https://github.com/sawerasaeed00-lab/rishtaconnect)**
 <br>Bilingual AI matrimonial platform
 
-A solo-built platform matching profiles with a custom 7-dimension weighted compatibility algorithm (age, city, education, caste, height, lifestyle, sect), scoring ~1,000 profiles/second. Powered by GPT-4o-mini for an in-app bilingual chatbot, photo moderation, and AI-assisted bio writing, with JWT + email-verified authentication.
+Solo-built platform matching profiles with a custom 7-dimension weighted compatibility algorithm (age, city, education, caste, height, lifestyle, sect), scoring ~1,000 profiles/second. Powered by GPT-4o-mini for an in-app bilingual chatbot, photo moderation, and AI-assisted bio writing, with JWT + email-verified authentication.
 
 `Django 5` `PostgreSQL` `OpenAI GPT-4o-mini` `JWT`
 
@@ -103,28 +99,44 @@ A RESTful API with signup/login/protected-route flows — bcrypt password hashin
 </td>
 <td width="50%" valign="top">
 
-**🤍 More coming soon**
-<br>Actively building &amp; open-sourcing new projects
+**🤍 Tech Stack Recommender**
+<br>AI-powered skill-based recommendation engine
 
-Currently expanding into Node.js/Express backends and AI-powered tooling. Check back for updates, or connect on LinkedIn to follow along.
+Built during DecodeLabs' AI Engineering Industrial Training. Suggests relevant tech stacks based on a user's existing skills — processes a skills dataset, computes TF-IDF vectors, and measures cosine similarity between user input (minimum 3 skills) and available tech stacks to return ranked Top-N recommendations.
+
+`Python` `Pandas` `Scikit-learn` `TF-IDF` `Cosine Similarity`
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-<div align="center">
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,express,postgres,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-7C3AED?style=for-the-badge&logoColor=white" />
+</p>
+
+---
 
 ### 📜 Certifications
 
-![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-7C3AED?style=for-the-badge&logo=google&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_AI_Essentials-7C3AED?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
-*Issued via Coursera — Credential ID: Z1CYKKGOLC3T*
+<p align="center"><i>Issued via Coursera — Credential ID: Z1CYKKGOLC3T</i></p>
 
-</div>
-
-<br>
+---
 
 <p align="center">
   <i>💌 Open to internships, entry-level roles, and collaboration — feel free to reach out!</i>

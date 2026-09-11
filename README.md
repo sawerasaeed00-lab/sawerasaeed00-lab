@@ -1,48 +1,45 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:C4B5FD&height=200&section=header&text=Hi,%20I'm%20Sawera%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<p align="center">
+  🐍 Python &nbsp;|&nbsp; 🎯 Django &amp; DRF &nbsp;|&nbsp; ⚛️ React.js &nbsp;|&nbsp; 🟢 Node.js &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🤖 ML &nbsp;|&nbsp; 🧠 AI &nbsp;|&nbsp; 📊 Data Analyst
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<p align="center">
+  <i>Full-stack developer specializing in Python, Django &amp; React — building AI-integrated web applications end to end.</i>
+</p>
 
-<i>Full-stack developer specializing in Python, Django &amp; React — building AI-integrated web applications end to end.</i>
+<p align="center">
+  <a href="https://linkedin.com/in/sawera-saeed"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sawerasaeed00@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sawerasaeed00-lab"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<br><br>
-
-![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-7C3AED?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logoColor=white)
-![AI](https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logoColor=white)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-7C3AED?style=for-the-badge&logoColor=white)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sawerasaeed00-lab&color=A78BFA&style=flat-square&label=Profile+Views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sawerasaeed00-lab&color=A78BFA&style=flat-square&label=Profile+Views" />
+</p>
 
 <br>
-
-### 👩‍💻 About Me
 
 <table>
 <tr>
 <td width="60%">
 
+### 👩‍💻 About Me
+
 - 🎓 BS Information Technology — The Islamia University of Bahawalpur (CGPA 3.71/4.00)
 - 💻 Full-stack development with Python, Django, Django REST Framework, React.js & PostgreSQL
-- 🤖 Integrating AI into production apps using the OpenAI API
-- 📊 Growing focus on data analytics — SQL-driven insights
+- 🤖 Building AI-integrated applications using the OpenAI API (GPT-4o-mini)
+- 🟢 Expanding into Node.js / Express backend development
+- 📊 Growing focus on data analytics — SQL-driven insights & Power BI
 - 🧠 Google AI Essentials Certified
 - 🔭 Open to internships & entry-level roles — open to relocation
 
 </td>
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sawerasaeed00-lab&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" />
 
 </td>
 </tr>
@@ -52,9 +49,17 @@
 
 <div align="center">
 
-### 🧰 Skills
+### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,react,postgres,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,react,nodejs,express,postgres,git,github&theme=dark" />
+
+<br><br>
+
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
@@ -64,24 +69,44 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[RishtaConnect](https://github.com/sawerasaeed00-lab/rishtaconnect)**
-Bilingual AI matrimonial platform
+**🤍 [RishtaConnect](https://github.com/sawerasaeed00-lab/rishtaconnect)**
+<br>Bilingual AI matrimonial platform
 
-`Django` `PostgreSQL` `OpenAI GPT-4o-mini`
+A solo-built platform matching profiles with a custom 7-dimension weighted compatibility algorithm (age, city, education, caste, height, lifestyle, sect), scoring ~1,000 profiles/second. Powered by GPT-4o-mini for an in-app bilingual chatbot, photo moderation, and AI-assisted bio writing, with JWT + email-verified authentication.
 
-Custom 7-dimension weighted matching algorithm, bilingual chatbot, AI-assisted bio & photo moderation.
+`Django 5` `PostgreSQL` `OpenAI GPT-4o-mini` `JWT`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[SmartClass](https://github.com/sawerasaeed00-lab/smartclass)**
-AI-based Learning Management System
+**🤍 [SmartClass](https://github.com/sawerasaeed00-lab/smartclass)**
+<br>AI-based Learning Management & Assessment System
 
-`Django` `React` `PostgreSQL` `ML/NLP`
+Final year project (exhibited at ORIC FYP Exhibition 2026): 20+ model schema across 7 Django apps and 25+ React pages. Features AI-generated quizzes, TF-IDF-based plagiarism detection, peer review, adaptive difficulty calibration, a real-time analytics dashboard, role-based access, and quiz anti-cheat monitoring.
 
-AI quiz generation, plagiarism detection (TF-IDF cosine similarity), peer review, adaptive difficulty. Exhibited at ORIC FYP Exhibition 2026.
+`Django` `React.js` `PostgreSQL` `ML/NLP` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤍 [REST API with Auth](https://github.com/sawerasaeed00-lab/rest-api-auth)**
+<br>JWT-secured authentication API
+
+A RESTful API with signup/login/protected-route flows — bcrypt password hashing, JWT-based session tokens, and Zod schema validation on every request.
+
+`Node.js` `Express` `PostgreSQL` `JWT` `Zod`
+
+</td>
+<td width="50%" valign="top">
+
+**🤍 More coming soon**
+<br>Actively building &amp; open-sourcing new projects
+
+Currently expanding into Node.js/Express backends and AI-powered tooling. Check back for updates, or connect on LinkedIn to follow along.
 
 </td>
 </tr>
@@ -91,35 +116,16 @@ AI quiz generation, plagiarism detection (TF-IDF cosine similarity), peer review
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📜 Certifications
 
-<img src="https://github-readme-stats.vercel.app/api?username=sawerasaeed00-lab&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=C4B5FD" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=sawerasaeed00-lab&theme=dark&hide_border=true&background=1A1B27&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" width="48%" />
+![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-7C3AED?style=for-the-badge&logo=google&logoColor=white)
 
-<br>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sawerasaeed00-lab&theme=dracula&no-frame=true&row=1&column=6&margin-w=8" />
-
-<br>
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sawerasaeed00-lab&theme=react-dark&hide_border=true&color=A78BFA&line=A78BFA&point=C4B5FD&area=true" width="100%" />
+*Issued via Coursera — Credential ID: Z1CYKKGOLC3T*
 
 </div>
 
 <br>
 
-<div align="center">
-
-### 📬 Connect With Me
-
-<a href="https://linkedin.com/in/sawera-saeed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,100:7C3AED&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <i>💌 Open to internships, entry-level roles, and collaboration — feel free to reach out!</i>
+</p>

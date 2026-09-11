@@ -1,5 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A78BFA&height=220&section=header&text=Hi%20There!%20I'm%20Sawera%20Saeed&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Django%20%2B%20React%20%2B%20AI&descAlignY=52&descSize=18" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+React+%2B+AI;Open+to+Job+Opportunities" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -44,7 +46,7 @@
 - 🟢 Expanding into Node.js / Express backend development
 - 📊 Growing focus on data analytics — SQL-driven insights & Power BI
 - 🧠 Google AI Essentials Certified
-- 🔭 Open to internships & entry-level roles — open to relocation
+- 🔭 Open to job opportunities — open to relocation
 
 ---
 
@@ -139,5 +141,7 @@ Built during DecodeLabs' AI Engineering Industrial Training. Suggests relevant t
 ---
 
 <p align="center">
-  <i>💌 Open to internships, entry-level roles, and collaboration — feel free to reach out!</i>
+  <i>💌 Open to job opportunities and collaboration — feel free to reach out!</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:7C3AED&height=150&section=footer&animation=fadeIn" />
